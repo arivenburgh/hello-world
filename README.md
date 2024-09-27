@@ -4,14 +4,19 @@ I am currentley a third year student at UIowa studying marketing and business an
 <br>
 <br>
 ## **Project Title**
-<br>
 Abby Rivenburgh hello-world repository
 <br>
 <br>
 ## **Description**
+This my first repository! Enjoy!
 <br>
 <br>
-## **How To Run the Program**
+
+## **Addtional Documentation**
+
+~~Mistaken Text~~
 <br>
 <br>
 ## **Files Used**
+
+[Taylor Swift's Website](https://www.taylorswift.com/)
